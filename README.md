@@ -9,4 +9,6 @@ Fizzbuzz
 
 <h5> First week at [Makers Academy](https://www.makersacademy.com) 
 
-Learnt skills: Basic Ruby syntax (functions, variables, user input via terminal, logic fundamentals)
+Introduction to TDD with Ruby and RSpec.
+
+Learnt skills: Using RSpec to test Ruby cody, getting familiar with the RED-GREEN-REFACTOR trinity.
