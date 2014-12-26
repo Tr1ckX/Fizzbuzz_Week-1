@@ -11,4 +11,4 @@ Fizzbuzz
 
 Introduction to TDD with Ruby and RSpec.
 
-Learnt skills: Using RSpec to test Ruby cody, getting familiar with the RED-GREEN-REFACTOR trinity.
+Learnt skills: Using RSpec to test Ruby code, getting familiar with the RED-GREEN-REFACTOR trinity.
