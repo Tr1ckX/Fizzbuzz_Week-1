@@ -7,6 +7,6 @@ Fizzbuzz
 </div>
 <br>
 
-<h3>First week at [Makers Academy] (https://makersacademy.com)</h3>
+<h5>First week at [Makers Academy] (https://www.makersacademy.com)</h5>
 
 Learnt skills: Basic Ruby syntax (functions, variables, user input via terminal, logic fundamentals)
