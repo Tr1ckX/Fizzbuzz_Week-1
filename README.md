@@ -7,7 +7,7 @@ Fizzbuzz
 </div>
 <br>
 
-<h5> First week at [Makers Academy](https://www.makersacademy.com) 
+<h5> First week at [Makers Academy](http://www.makersacademy.com) 
 
 Introduction to TDD with Ruby and RSpec.
 
