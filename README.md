@@ -1,4 +1,4 @@
-Fizzbuzz - Week 1
+Fizzbuzz
 ========
 <div>
 <img src = https://img.shields.io/badge/%20-GitHub-orange.svg>
